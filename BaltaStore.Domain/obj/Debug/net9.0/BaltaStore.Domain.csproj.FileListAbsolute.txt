@@ -1,0 +1,12 @@
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net9.0\BaltaStore.Domain.deps.json
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net9.0\BaltaStore.Domain.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net9.0\BaltaStore.Domain.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.AssemblyInfoInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.AssemblyInfo.cs
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\refint\BaltaStore.Domain.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\ref\BaltaStore.Domain.dll
+c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.csproj.AssemblyReference.cache
