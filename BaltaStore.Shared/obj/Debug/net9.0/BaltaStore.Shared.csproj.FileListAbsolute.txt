@@ -9,3 +9,5 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\n
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net9.0\refint\BaltaStore.Shared.dll
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net9.0\BaltaStore.Shared.pdb
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net9.0\ref\BaltaStore.Shared.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net9.0\BaltaStore.Shared.sourcelink.json
+c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net9.0\BaltaStore.Shared.csproj.AssemblyReference.cache

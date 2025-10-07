@@ -1,11 +1,12 @@
 using System.ComponentModel.DataAnnotations;
 using System.Security.Cryptography.X509Certificates;
 using BaltaStore.Domain.StoreContext.Enums;
+using BaltaStore.Shared.Entities;
 using FluentValidator;
 
 namespace BaltaStore.Domain.StoreContext.Entities
 {
-    public class Order : Notifiable
+    public class Order : Entity
     {
         private readonly IList<OrderItem> _items;
         private readonly IList<Delivery> _deliveries;
@@ -23,14 +24,16 @@ namespace BaltaStore.Domain.StoreContext.Entities
         public DateTime CreateDate { get; private set; }
         public EOrderStatus Status { get; private set; }
         public IReadOnlyCollection<OrderItem> Items => _items.ToArray();
-        public IReadOnlyCollection<Delivery> Delivery => _deliveries.ToArray();
+        public IReadOnlyCollection<Delivery> Deliveries => _deliveries.ToArray();
 
 
-        public void AddItem(OrderItem item)
+        public void AddItem(Product product, decimal quantity)
         {
+            if (quantity > product.QuantityOnHand)
+                AddNotification("OrdemItem", $"Prudot {product.Title} não tem {quantity} em estoque.");
+
+            var item = new OrderItem(product, quantity);
             _items.Add(item);
-            //validaitem
-            //adicone ao pedido
         }
 
         //criar um pedido

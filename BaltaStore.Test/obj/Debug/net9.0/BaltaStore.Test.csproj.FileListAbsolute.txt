@@ -170,3 +170,6 @@ c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Test\bin\Debug\net
 c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Test\bin\Debug\net9.0\BaltaStore.Domain.dll
 c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Test\bin\Debug\net9.0\BaltaStore.Domain.pdb
 c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Test\bin\Debug\net9.0\FluentValidator.dll
+c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Test\obj\Debug\net9.0\BaltaStore.Test.sourcelink.json
+c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Test\bin\Debug\net9.0\BaltaStore.Shared.dll
+c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Test\bin\Debug\net9.0\BaltaStore.Shared.pdb

@@ -9,3 +9,10 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\ne
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net9.0\refint\BaltaStore.Infra.dll
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net9.0\BaltaStore.Infra.pdb
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net9.0\ref\BaltaStore.Infra.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net9.0\BaltaStore.Infra.sourcelink.json
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\baltastore.infra\obj\Debug\net9.0\BaltaStore.Infra.csproj.AssemblyReference.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\baltastore.infra\bin\Debug\net9.0\BaltaStore.Domain.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\baltastore.infra\bin\Debug\net9.0\BaltaStore.Shared.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\baltastore.infra\bin\Debug\net9.0\BaltaStore.Domain.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\baltastore.infra\bin\Debug\net9.0\BaltaStore.Shared.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\baltastore.infra\obj\Debug\net9.0\BaltaSto.47AC9212.Up2Date

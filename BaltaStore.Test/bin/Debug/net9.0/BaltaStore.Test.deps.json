@@ -1253,10 +1253,22 @@
       },
       "BaltaStore.Domain/1.0.0": {
         "dependencies": {
+          "BaltaStore.Shared": "1.0.0",
           "FluentValidator": "2.0.2"
         },
         "runtime": {
           "BaltaStore.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BaltaStore.Shared/1.0.0": {
+        "dependencies": {
+          "FluentValidator": "2.0.2"
+        },
+        "runtime": {
+          "BaltaStore.Shared.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1909,6 +1921,11 @@
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
     "BaltaStore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaltaStore.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

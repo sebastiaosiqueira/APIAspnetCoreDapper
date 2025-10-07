@@ -1,15 +1,19 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
+using FluentValidator;
+using FluentValidator.Validation;
 
 namespace BaltaStore.Domain.StoreContext.ValueObjects
 {
-    public class Email
+    public class Email : Notifiable
     {
         public Email(string address)
         {
             Address = address;
+
+            AddNotifications(new ValidationContract()
+            .Requires()
+            .IsEmail(Address, "Email", "Email inválido")
+            );
         }
         public string Address { get; private set; }
 

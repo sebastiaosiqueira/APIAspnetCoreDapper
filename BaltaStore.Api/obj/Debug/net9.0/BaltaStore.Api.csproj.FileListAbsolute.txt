@@ -26,3 +26,4 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net9
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net9.0\BaltaStore.Api.pdb
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net9.0\BaltaStore.Api.genruntimeconfig.cache
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net9.0\ref\BaltaStore.Api.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net9.0\BaltaStore.Api.sourcelink.json

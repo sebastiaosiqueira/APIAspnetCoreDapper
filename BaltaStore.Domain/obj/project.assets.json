@@ -1295,6 +1295,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "BaltaStore.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "FluentValidator": "2.0.2"
+        },
+        "compile": {
+          "bin/placeholder/BaltaStore.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaltaStore.Shared.dll": {}
+        }
       }
     }
   },
@@ -4579,10 +4592,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "BaltaStore.Shared/1.0.0": {
+      "type": "project",
+      "path": "../BaltaStore.Shared/BaltaStore.Shared.csproj",
+      "msbuildProject": "../BaltaStore.Shared/BaltaStore.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "BaltaStore.Shared >= 1.0.0",
       "FluentValidator >= 2.0.2"
     ]
   },
@@ -4592,11 +4611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\baltastore.domain\\BaltaStore.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
       "projectName": "BaltaStore.Domain",
-      "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\baltastore.domain\\BaltaStore.Domain.csproj",
+      "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
       "packagesPath": "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\baltastore.domain\\obj\\",
+      "outputPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\3346.ADM-UCDB\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4611,7 +4630,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+              "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

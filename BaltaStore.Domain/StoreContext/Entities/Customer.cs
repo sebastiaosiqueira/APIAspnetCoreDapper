@@ -2,10 +2,11 @@ using System.Dynamic;
 using BaltaStore.Domain.StoreContext.ValueObjects;
 using System.Linq;
 using FluentValidator;
+using BaltaStore.Shared.Entities;
 
 namespace BaltaStore.Domain.StoreContext.Entities
 {
-    public class Customer: Notifiable
+    public class Customer: Entity
     {
         private readonly IList<Address> _addresses;
 

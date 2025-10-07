@@ -10,3 +10,7 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\n
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.pdb
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\ref\BaltaStore.Domain.dll
 c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.csproj.AssemblyReference.cache
+c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaStore.Domain.sourcelink.json
+c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net9.0\BaltaStore.Shared.dll
+c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net9.0\BaltaStore.Shared.pdb
+c:\Users\3346.ADM-UCDB\Desktop\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net9.0\BaltaSto.5EBC775C.Up2Date
