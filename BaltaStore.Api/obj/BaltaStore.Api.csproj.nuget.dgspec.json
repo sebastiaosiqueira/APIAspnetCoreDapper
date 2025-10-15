@@ -26,6 +26,248 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj"
+              },
+              "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {
+                "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj"
+              },
+              "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+                "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Elmah.Io.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.88, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.ResponseCompression": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
+        "projectName": "BaltaStore.Domain",
+        "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\3346.ADM-UCDB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+                "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
+        "projectName": "BaltaStore.Infra",
+        "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
+        "packagesPath": "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\3346.ADM-UCDB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj"
+              },
+              "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+                "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+        "projectName": "BaltaStore.Shared",
+        "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+        "packagesPath": "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\3346.ADM-UCDB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -44,6 +286,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,9 +304,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

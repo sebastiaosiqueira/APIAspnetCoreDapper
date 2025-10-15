@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jwGw4yiNJW8=",
+  "dgSpecHash": "r2qJmV6miNs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\baltastore.infra\\BaltaStore.Infra.csproj",
+  "projectFilePath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

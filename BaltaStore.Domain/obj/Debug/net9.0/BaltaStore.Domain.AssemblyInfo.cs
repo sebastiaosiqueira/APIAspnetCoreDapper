@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaltaStore.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60aa8ab486b087fff35d561172271659c374affe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e140b796511165e25ca17556af94d3720fa622")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaltaStore.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaltaStore.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

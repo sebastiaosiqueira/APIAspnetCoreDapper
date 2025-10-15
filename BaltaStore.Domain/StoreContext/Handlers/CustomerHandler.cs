@@ -43,14 +43,14 @@ namespace BaltaStore.Domain.StoreContext.Handlers
             AddNotifications(customer.Notifications);
 
             if (Invalid)
-                return null;
+                return new CommandResult(false, "Por favor corrija os campos abaixo", Notifications);
 
             //persisitr o cliente
             _repository.Save(customer);
             //enviar email de boas vindas
             _emailService.Send(email.Address, "Hello About", "Bem vindo", "Seja bem vindo ao Balta Store!");
             //retornar o resultado para a tela
-            return new CreateCustomerCommandResult(customer.Id, name.ToString(), email.Address);
+            return new CommandResult(true, "Bem vindo ao balta store", new{Id = customer.Id, Name = name.ToString(), Email = email.Address });
 
         }
 

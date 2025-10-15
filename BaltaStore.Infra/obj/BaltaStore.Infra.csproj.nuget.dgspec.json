@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\baltastore.infra\\BaltaStore.Infra.csproj": {}
+    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {}
   },
   "projects": {
     "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\baltastore.infra\\BaltaStore.Infra.csproj": {
+    "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\baltastore.infra\\BaltaStore.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
         "projectName": "BaltaStore.Infra",
-        "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\baltastore.infra\\BaltaStore.Infra.csproj",
+        "projectPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
         "packagesPath": "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\baltastore.infra\\obj\\",
+        "outputPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\BaltaStore\\BaltaStore.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3346.ADM-UCDB\\AppData\\Roaming\\NuGet\\NuGet.Config"
